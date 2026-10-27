@@ -1,0 +1,135 @@
+ticker,sector,industry
+AADI,Energy,Thermal Coal
+AALI,Consumer Staples,Farm Products
+ACES,Consumer Discretionary,Specialty Retail
+ACST,Industrials,Engineering & Construction
+ADHI,Industrials,Engineering & Construction
+ADMR,Materials,Coking Coal
+ADRO,Energy,Thermal Coal
+AGRO,Financials,Banks - Regional
+AKRA,Energy,Oil & Gas Refining & Marketing
+AMMN,Materials,Other Precious Metals & Mining
+AMRT,Consumer Staples,Grocery Stores
+ANTM,Materials,Gold
+ARTO,Financials,Banks - Regional
+ASII,Industrials,Conglomerates
+AVIA,Materials,Specialty Chemicals
+BANK,Financials,Banks - Regional
+BBCA,Financials,Banks - Regional
+BBHI,Financials,Banks - Regional
+BBKP,Financials,Banks - Regional
+BBNI,Financials,Banks - Regional
+BBRI,Financials,Banks - Regional
+BBTN,Financials,Banks - Regional
+BBYB,Financials,Banks - Regional
+BDMN,Financials,Banks - Regional
+BELI,Consumer Discretionary,Internet Retail
+BHIT,Communication Services,Entertainment
+BINA,Financials,Banks - Regional
+BJBR,Financials,Banks - Regional
+BMRI,Financials,Banks - Regional
+BMTR,Communication Services,Entertainment
+BNGA,Financials,Banks - Regional
+BNII,Financials,Banks - Regional
+BNLI,Financials,Banks - Regional
+BREN,Utilities,Utilities - Renewable
+BRIS,Financials,Banks - Regional
+BRMS,Materials,Other Industrial Metals & Mining
+BRPT,Materials,Chemicals
+BSDE,Real Estate,Real Estate - Development
+BTPN,Financials,Banks - Regional
+BTPS,Financials,Banks - Regional
+BUKA,Consumer Discretionary,Internet Retail
+BUMI,Energy,Thermal Coal
+BYAN,Energy,Thermal Coal
+CASA,Financials,Insurance - Life
+CDIA,Utilities,Utilities - Regulated Electric
+CMRY,Consumer Staples,Packaged Foods
+COIN,Financials,Financial Data & Stock Exchanges
+CPIN,Consumer Staples,Farm Products
+CTRA,Real Estate,Real Estate - Development
+CUAN,Energy,Thermal Coal
+DCII,Real Estate,Real Estate Services
+DNET,Communication Services,Telecom Services
+DSSA,Energy,Thermal Coal
+ELTY,Real Estate,Real Estate Services
+EMAS,Materials,Gold
+EMTK,Communication Services,Broadcasting
+EXCL,Communication Services,Telecom Services
+FASW,Consumer Discretionary,Packaging & Containers
+FILM,Communication Services,Entertainment
+FISH,Consumer Staples,Food Distribution
+GEMS,Energy,Thermal Coal
+GGRM,Consumer Staples,Tobacco
+GIAA,Industrials,Airlines
+GMFI,Industrials,Aerospace & Defense
+GOTO,Technology,Software - Infrastructure
+HMSP,Consumer Staples,Tobacco
+HRUM,Materials,Other Industrial Metals & Mining
+ICBP,Consumer Staples,Packaged Foods
+IMPC,Industrials,Building Products & Equipment
+INCO,Materials,Other Industrial Metals & Mining
+INDF,Consumer Staples,Packaged Foods
+INKP,Materials,Paper & Paper Products
+INTP,Materials,Building Materials
+IPTV,Communication Services,Entertainment
+ISAT,Communication Services,Telecom Services
+ITMG,Energy,Thermal Coal
+JPFA,Consumer Staples,Farm Products
+JSMR,Industrials,Infrastructure Operations
+JSPT,Real Estate,Real Estate Services
+KLBF,Healthcare,Drug Manufacturers - General
+LPCK,Real Estate,Real Estate - Development
+LPKR,Healthcare,Medical Care Facilities
+LPPF,Consumer Discretionary,Department Stores
+MAYA,Financials,Banks - Regional
+MBMA,Materials,Other Industrial Metals & Mining
+MDKA,Materials,Other Industrial Metals & Mining
+MEDC,Energy,Oil & Gas Exploration & Production
+MEGA,Financials,Banks - Regional
+MIKA,Healthcare,Medical Care Facilities
+MKPI,Real Estate,Real Estate Services
+MLBI,Consumer Staples,Beverages - Brewers
+MLPT,Technology,Information Technology Services
+MNCN,Communication Services,Advertising Agencies
+MORA,Communication Services,Telecom Services
+MPRO,Real Estate,Real Estate - Development
+MSIN,Communication Services,Entertainment
+MTEL,Communication Services,Telecom Services
+MYOR,Consumer Staples,Packaged Foods
+NCKL,Materials,Other Industrial Metals & Mining
+NISP,Financials,Banks - Regional
+PACK,Consumer Discretionary,Packaging & Containers
+PANI,Real Estate,Real Estate - Development
+PGAS,Utilities,Utilities - Regulated Gas
+PGEO,Utilities,Utilities - Renewable
+PGUN,Consumer Staples,Farm Products
+PNBN,Financials,Banks - Regional
+PTBA,Energy,Thermal Coal
+PTPP,Industrials,Engineering & Construction
+PTRO,Materials,Other Industrial Metals & Mining
+PWON,Real Estate,Real Estate - Diversified
+RISE,Real Estate,Real Estate - Development
+SCMA,Communication Services,Broadcasting
+SDRA,Financials,Banks - Regional
+SIDO,Consumer Staples,Packaged Foods
+SILO,Healthcare,Medical Care Facilities
+SMBR,Materials,Building Materials
+SMGR,Materials,Building Materials
+SMMA,Financials,Insurance - Diversified
+SMRA,Real Estate,Real Estate - Development
+SQMI,Materials,Gold
+SRAJ,Healthcare,Medical Care Facilities
+SRTG,Financials,Asset Management
+SSMS,Consumer Staples,Packaged Foods
+SUPR,Real Estate,Real Estate Services
+TBIG,Communication Services,Telecom Services
+TCPI,Industrials,Marine Shipping
+TKIM,Materials,Paper & Paper Products
+TLKM,Communication Services,Telecom Services
+TOWR,Real Estate,Real Estate Services
+TPIA,Materials,Specialty Chemicals
+UNTR,Materials,Other Industrial Metals & Mining
+UNVR,Consumer Staples,Household & Personal Products
+WIKA,Industrials,Engineering & Construction
+WSBP,Materials,Building Materials
